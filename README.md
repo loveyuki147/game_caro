@@ -1,2 +1,2 @@
-# game_caro_ver_1
+# Game Caro 1.0
 2019
